@@ -1,13 +1,16 @@
-# Olá, eu sou Kaue 👋
+# Kaue
 
-Desenvolvedor Full Stack com foco em aplicações web.
+Transformo problemas difíceis em software de ponta a ponta.
 
-## Tecnologias
+Construo aplicações web, APIs, automações e sistemas de dados com IA aplicada quando ela resolve um problema real. Trabalho do desenho da solução à implementação e aos testes.
 
-React · TypeScript · JavaScript · Vite · Tailwind CSS
+## O que faço
+
+- Interfaces e aplicações web
+- APIs e integrações
+- Automações e processamento de dados
+- Sistemas com IA
 
 ## Projeto público
 
-- [TAROT](https://github.com/kauefullstack/TAROT) — aplicação web de tarot desenvolvida com React, TypeScript e Vite.
-
-Explore meus repositórios para acompanhar meus projetos.
+- [TAROT](https://github.com/kauefullstack/TAROT) — aplicação web com React, TypeScript e Vite.
