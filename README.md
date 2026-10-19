@@ -54,11 +54,11 @@ Projeto de plataforma para consulta de conhecimento operacional, processamento d
 
 *Descrição de projeto; não há repositório público vinculado aqui.*
 
-### Soluções para advocacia — Sites, sistemas e processos digitais · Estudo de caso
+### Projetos desenvolvidos para advogados e escritórios de advocacia · Trabalhos para clientes
 
-Atuação em soluções digitais voltadas ao setor jurídico, envolvendo presença web, organização de processos comerciais e propostas de sistemas de gestão e CRM. O foco está na experiência do usuário, na integração entre etapas e na construção de soluções adequadas ao negócio.
+Desenvolvimento de soluções digitais destinadas a **advogados e escritórios de advocacia**, incluindo sites profissionais e projetos de sistemas para apoiar processos comerciais e gestão de contatos. São trabalhos realizados para o setor jurídico, e não um único projeto chamado “Advocacia”.
 
-*Descrição de área de atuação e projetos; detalhes de clientes, código e resultados não são públicos.*
+*Trabalhos para clientes: código-fonte, identidade dos contratantes e resultados específicos não são divulgados sem autorização.*
 
 ### BioLab — Laboratório virtual educativo · Estudo de caso, código não publicado
 
