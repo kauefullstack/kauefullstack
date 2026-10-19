@@ -6,7 +6,7 @@
 **+6 anos desenvolvendo software e transformando problemas reais em produtos digitais.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-kauefullstack-181717?style=for-the-badge&logo=github)](https://github.com/kauefullstack)
-[![Instagram](https://img.shields.io/badge/Instagram-Contato_profissional-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kauefullstack)
+[![Instagram](https://img.shields.io/badge/Instagram-Contato_profissional-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaue.fullstack/)
 
 </div>
 
@@ -40,6 +40,8 @@ Gosto de pensar além da funcionalidade: **arquitetura, desempenho, manutenção
 
 ## Projetos e estudos de caso
 
+Minha experiência inclui produtos próprios e soluções para diferentes setores. Os projetos abaixo são apresentados como **código público** ou **estudos de caso**, sem divulgar repositórios privados, dados de clientes ou informações confidenciais.
+
 ### [TAROT — Aplicação web](https://github.com/kauefullstack/TAROT) · Código público
 
 Aplicação com interface em React, TypeScript e Vite, estilização com Tailwind CSS e suporte a múltiplos idiomas. O projeto também utiliza bibliotecas e integrações como React Router, i18next, Firebase, Supabase e Stripe; consulte o repositório para verificar a implementação.
@@ -52,11 +54,21 @@ Projeto de plataforma para consulta de conhecimento operacional, processamento d
 
 *Descrição de projeto; não há repositório público vinculado aqui.*
 
+### Soluções para advocacia — Sites, sistemas e processos digitais · Estudo de caso
+
+Atuação em soluções digitais voltadas ao setor jurídico, envolvendo presença web, organização de processos comerciais e propostas de sistemas de gestão e CRM. O foco está na experiência do usuário, na integração entre etapas e na construção de soluções adequadas ao negócio.
+
+*Descrição de área de atuação e projetos; detalhes de clientes, código e resultados não são públicos.*
+
 ### BioLab — Laboratório virtual educativo · Estudo de caso, código não publicado
 
 Projeto de experiência educacional interativa para explorar conceitos de laboratório e biologia em ambiente virtual, combinando desenvolvimento de software e aprendizagem.
 
 *Descrição de projeto; não há repositório público vinculado aqui.*
+
+### Outros trabalhos
+
+Também desenvolvo soluções web, integrações e automações sob demanda. Prefiro documentar cada projeto com contexto, decisões técnicas e resultados verificáveis, em vez de publicar descrições genéricas ou expor código de terceiros.
 
 ## Minha abordagem
 
@@ -72,7 +84,7 @@ Priorizo soluções que sejam **úteis hoje e sustentáveis amanhã**. Prefiro d
 
 Quer discutir um produto, uma integração ou uma solução com IA?
 
-**[GitHub](https://github.com/kauefullstack)** · **[Instagram profissional](https://instagram.com/kauefullstack)**
+**[GitHub](https://github.com/kauefullstack)** · **[Instagram profissional](https://www.instagram.com/kaue.fullstack/)**
 
 ---
 
